@@ -5,7 +5,7 @@ export function Logomark({ invert = false, filled = false, ...props }) {
   let id = useId()
 
   return (
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 313.44 159.1">
+<svg width='160' height='64' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 313.44 159.1">
     <path
       d="M182.05,46.61h30.89c2.83,0,5.15,2.32,5.15,5.15v71.8c0,2.83-2.32,5.15-5.15,5.15h-30.89c-2.83,0-5.15-2.32-5.15-5.15V51.76c0-2.83,2.32-5.15,5.15-5.15h0ZM192.93,63.76c-.63,0-1.14.51-1.14,1.14v45.5c0,.63.51,1.14,1.14,1.14h9.13c.63,0,1.14-.51,1.14-1.14v-45.5c0-.63-.51-1.14-1.14-1.14h-9.13Z"
       fill="#d50f19"

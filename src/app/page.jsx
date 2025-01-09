@@ -198,9 +198,7 @@ export default async function Home() {
         className="mt-24 sm:mt-32 lg:mt-40"
         client={{ name: 'Phobia', logo: logoPhobiaDark }}
       >
-        The team at Studio went above and beyond with our onboarding, even
-        finding a way to access the user’s microphone without triggering one of
-        those annoying permission dialogs.
+        EGOOD Partition’s solutions perfectly balance luxury and flexibility, transforming our banquet halls and meeting rooms with ease. Their partitions deliver elegant design and excellent soundproofing, enhancing both large events and private meetings. The team’s professionalism and attention to detail exceeded our expectations, elevating our guests’ experiences.
       </Testimonial>
 
       <Services />
