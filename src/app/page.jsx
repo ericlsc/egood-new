@@ -64,13 +64,13 @@ function CaseStudies({ caseStudies }) {
   return (
     <>
       <SectionIntro
-        title="Harnessing technology for a brighter future"
+        title="We offer multi-scenario space partitioning solutions."
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-          We believe technology is the answer to the world’s greatest
-          challenges. It’s also the cause, so we find ourselves in bit of a
-          catch 22 situation.
+        We specialize in movable partitions for large spaces, such as hotel banquet halls, 
+        conference venues, schools, and hospitals. Additionally, 
+        we offer high-partition products and mobile soundproof pods tailored for office environments.
         </p>
       </SectionIntro>
       <Container className="mt-16">
@@ -180,12 +180,12 @@ export default async function Home() {
       <Container className="mt-24 sm:mt-32 md:mt-56">
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-            Award-winning development studio based in Denmark.
+            Your One-Stop Expert for Innovative Space Solutions
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-            We are a development studio working at the intersection of design
-            and technology. It’s a really busy intersection though — a lot of
-            our staff have been involved in hit and runs.
+          Egood Partition Australia, founded in 2024, specializes in premium movable partitions for hotels, offices, and commercial spaces. 
+          With advanced manufacturing and SGS, ASTM, ISO certifications, our partitions reach heights of 20m, offer up to 56dB soundproofing, 
+          and 3-hour fire resistance. We deliver tailored solutions trusted by leading clients nationwide and internationally.
           </p>
         </FadeIn>
       </Container>
